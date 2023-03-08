@@ -20,7 +20,7 @@ This guide will build upon the previous tutorial where you created an Azure Subs
 <h2>High-Level Steps</h2>
  
 - Create a Storage Account within the Resource Group
-- Create a file on your local desktop and upload it into the Stprage Account
+- Create a file on your local desktop and upload it into the Storage Account
 - Edit the file within the Storage Account (within the Azure Portal)
 - Download the file and observe the changes
 
