@@ -3,7 +3,11 @@
 </p>
 
 <h1>How to Create a Storage Account in Azure </h1>
-This tutorial is designed for beginners and will outline the basics of how to get started using Azure, Microsoft's cloud computing platform. You will learn how to create an Azure Subsciption and Resource Group. A Subcription is a logical container used to provision related business or techincal resources. A Resource Group is a container that holds related resources for an Azure solution. It can house resources such as virtual machines, app services, storage accounts, SQL databases etc. <br />
+This tutorial will build upon the previous tutorial that you completed titled, "Creating a Subscription and Resource Group in Azure". In this tutorial you will learn how to create a Storage Account within your Resource Group. A Storage Account is a container that houses all of your Azure Storage data objects, such as blobs, files, queues, tables and disks. The Storage Account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable. You can think of Azure Storage Accounts like a Google Drive or Drop Box on steroids. In addition to creating a storage account, you will learn how to upload, edit and download a basic text file within your storage account. <br />
+
+<h2>Pre-requisites</h2>
+
+- [Creating a Subscription and Resource Group in Azure](https://github.com/mikeguardiola/create-azure-sub-and-resource)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -14,17 +18,13 @@ This tutorial is designed for beginners and will outline the basics of how to ge
 - Windows 10 Pro (21H2)
 
 <h2>High-Level Steps</h2>
-
-- Create an Azure account within the Azure portal
-- Create a Resource Group 
+ 
 - Create a Storage Account within the Resource Group
 - Create a file on your local desktop and upload it into the Stprage Account
 - Edit the file within the Storage Account (within the Azure Portal)
 - Download the file and observe the changes
-- Delete the Resource Group
-- Verify that the Resource Group has been deleted
 
-<h2>Azure Subscription and Resource Group Creation: Step-By-Step Instructions</h2>
+<h2>Azure Storage Account Creation: Step-By-Step Instructions</h2>
 
 <p>
   Step 1:
