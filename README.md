@@ -28,46 +28,46 @@ This guide will build upon the previous tutorial where you created an Azure Subs
 
 <p>
   Step 1:
-<img src="https://i.imgur.com/FDh8Umj.png"/>
+<img src="https://i.imgur.com/iptUhEI.png"/>
 </p>
 <p>
-First, you will need to navigate to https://azure.microsoft.com/en-us/free/. Click on the green "Start Free" button to create your Azure account.
+Within the Azure Portal, navigate to the search bar at the top. Within the search bar, type "Storage accounts" and select it.
 </p>
 <br />
 
 <p>
   Step 2:
-<img src="https://i.imgur.com/m21ZVwI.png"/>
+<img src="https://i.imgur.com/hYekkug.png"/>
 </p>
 <p>
-Once you have gone through the entire process of creating your account and your account verification is complete, you can go ahead and navigate to the Azure Portal. If you ever have difficulty finding the Azure Portal, you can always access it by typing https://portal.azure.com into your web browser.
+After you click "Storage accounts", you will be taken to this screen. Once there, click on "Create".
 </p>
 <br />
 
 <p>
   Step 3:
-<img src="https://i.imgur.com/HiWBPue.png"/>
+<img src="https://i.imgur.com/jux9fkp.png"/>
 </p>
 <p>
-After you are in the Azure Portal, you will want to verify that an active subscription was created. Go to the search bar within the portal and type "Subsciptions". Click on the search result titled "Subscriptions" with the gold key next to it.
+Once you are at this screen, you can begin configuring your storage account. Under "Project Details", make sure that you have the correct subscription and resource group selected from the drop down menus. Since you are building off the previous tutorial, you can go ahead and select "Azure subsciption 1" and "resource-group-lab-01". Under "Instance Details", you will need to create a globally unique storage account name. I went with "mikecoursecareerslab01", but you can choose something that is unique to you. Next, select the correct region that most closely matches where you live. After that, you can click the "Review" button at the bottom of the screen.
 </p>
 <br />
 
 <p>
   Step 4:
-<img src="https://i.imgur.com/np0vgG1.png"/>
+<img src="https://i.imgur.com/FgrJl29.png"/>
 </p>
 <p>
-You will be taken to this screen where we can see that "Azure Subscription 1" has been created. On the far right side, you can see that status of the subscription is "Active".
+Azure will now run through a quick validation process. Once that is complete, you can click on the "Create" button at the bottom left of the screen.
 </p>
 <br />
 
 <p>
   Step 5:
-<img src="https://i.imgur.com/UWGG5v9.png"/>
+<img src="https://i.imgur.com/U3TxVhV.png"/>
 </p>
 <p>
-Next, you will go ahead and create your first Resource Group in Azure. To do this, navigate to the portal search bar and type "Resource groups". Click on "Resource groups".
+Your storage account will now go through a deployment process which may take about 30 seconds to a minute. Once completed, you will see a green check mark next to "Your deploymeny is complete" and you can now click on the "Go to resource" button.
 </p>
 <br />
 
