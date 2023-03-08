@@ -3,7 +3,7 @@
 </p>
 
 <h1>How to Create a Storage Account in Azure </h1>
-This tutorial will build upon the previous tutorial that you completed titled, "Creating a Subscription and Resource Group in Azure". In this tutorial you will learn how to create a Storage Account within your Resource Group. A Storage Account is a container that houses all of your Azure Storage data objects, such as blobs, files, queues, tables and disks. The Storage Account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable. You can think of Azure Storage Accounts like a Google Drive or Drop Box on steroids. In addition to creating a storage account, you will learn how to upload, edit and download a basic text file within your storage account. <br />
+This tutorial will build upon the previous tutorial where you created an Azure Subscription and Resource Group. In this tutorial, you will learn how to create a Storage Account within your Resource Group. A Storage Account is a container that houses all of your Azure Storage data objects, such as blobs, files, queues, tables and disks. The Storage Account provides a unique namespace for your Azure Storage data that's accessible from anywhere in the world over HTTP or HTTPS. Data in your storage account is durable and highly available, secure, and massively scalable. You can think of Azure Storage Accounts like a Google Drive or Drop Box on steroids. In addition to creating a storage account, you will learn how to upload, edit and download a basic text file within your storage account. <br />
 
 <h2>Pre-requisites</h2>
 
