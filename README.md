@@ -22,7 +22,7 @@ This guide will build upon the previous tutorial where you created an Azure Subs
 - Create a Storage Account within your Azure Resource Group
 - Create a file on your local desktop and upload it into the Storage Account
 
-<h2>Azure Storage Account Creation: Step-By-Step Instructions</h2>
+<h2>Step-By-Step Instructions:</h2>
 
 <p>
   Step 1:
